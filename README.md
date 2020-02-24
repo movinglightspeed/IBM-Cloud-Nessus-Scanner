@@ -1,7 +1,8 @@
 # IBM Cloud Nessus Scanner
 
-API Nessus Scanner for IBM Cloud also includes script to retrieve finished Nessus Scan Reports.
-Read the full guide here:
+This is Nessus Scanner Python Project I created for IBM Cloud. It is featured on IBM.com as a feature for the IBM.com portal and not only scans any IP on the IBM Cloud Infrastructure but retrieves Nessus reports for each scan in a downloaded HTML file.
+
+Read the technical article here on IBM.com
 https://www.ibm.com/cloud/blog/an-easier-way-to-use-the-nessus-scanner
 
 Full text below
